@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+
+# Generated figures (remove these lines if you want the figures tracked)
+*.svg
+*.eps
+element_sensitivity*.pdf
+learning_curve.pdf
+shap_summary_beeswarm.pdf
+OER_predicted_compositions_*.pdf
+element_sensitivity_IrPt_binary.png
